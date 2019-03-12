@@ -1,0 +1,3 @@
+一个 身份证号 可以 绑定 几个 任性 付 账户 ？	__label__affairs
+为什么 人脸识别 失败	__label__constellation
+企业 汇款 如何 操作	__label__economic
